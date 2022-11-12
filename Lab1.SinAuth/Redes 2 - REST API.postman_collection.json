@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "f2b2b2ee-756f-40f4-a8fe-7ce2ad3807b1",
+		"name": "Redes 2 - REST API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "16132067"
+	},
+	"item": [
+		{
+			"name": "GET Sin Auth",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://criptoya.com/api/dolar",
+					"protocol": "https",
+					"host": [
+						"criptoya",
+						"com"
+					],
+					"path": [
+						"api",
+						"dolar"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
